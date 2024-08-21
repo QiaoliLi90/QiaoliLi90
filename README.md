@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Medical student 👨‍🎓⎟Bioinformatics (R and Python)⎟Help cancer patients stratify treatment 
 <!--
 **QiaoliLi90/QiaoliLi90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
